@@ -1,5 +1,5 @@
 # ScoreCounter
-This is one of my first developed android apps. It is quite simple but functional. ScoreCounter helps to count scores for two competing basketball teams. The app uses mainly buttons to calculate scores, as well as refresh the result.
+This is one of my first developed android apps. It is quite simple but functional. ScoreCounter helps to count scores for two competing basketball teams. The app uses mainly buttons to calculate scores, as well as to refresh the result.
 
 # Screenshots
 ![Zero scores](https://user-images.githubusercontent.com/66224658/94449232-27e12000-01ac-11eb-9def-1f24aa4ff850.jpg)
